@@ -1,0 +1,997 @@
+﻿Skill,Skill Code,Description,Guidance Notes,Category,Sub-category,Levels,Assignee,Status,Label
+1 - Acceptance testing,BPTS,"Validating systems, products, business processes or services to determine whether the acceptance criteria have been satisfied.","Activities include — but are not limited to:
+- setting and applying standards for acceptance testing
+- planning, identifying, designing, managing, executing and reporting on the outcomes of acceptance tests
+- encouraging effective and efficient collaboration with a range of relevant stakeholders
+- requesting and enabling formal acceptance of systems, products or services
+- creating measurable acceptance criteria related to functional and non-functional requirements, features, business processes, user stories and business rules
+- devising acceptance test cases and scenarios from acceptance criteria
+- enabling exploratory testing by stakeholders to discover unexpected behaviours
+- deploying model office testing to simulate real-world working practices and system usage.
+The acceptance testing approach will be based on the context of the work and may be selected from predictive (plan-driven) or adaptive (iterative/agile) approaches.",People and skills,Change planning,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+2 - Animation development,ADEV,Designing and developing animated and interactive systems such as games and simulations.,"Animation development includes using specialised tools and techniques such as — but not limited to — wireframes, interaction diagrams and boned rigs.",People and skills,Change analysis,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+3 - Application support,ASUP,"Delivering management, technical and administrative services to support and maintain live applications.","Activities may include — but are not limited to:
+- investigating and resolving issues
+- implementing working practices to support iterative/agile development and/or cloud-based applications
+- monitoring performance of applications
+- providing guidance or training to users — including enhanced levels of support following new/updated software releases
+- devising permanent or temporary corrections and workarounds for faults
+- adhering to established safety, security and quality standards
+- capturing user feedback for subsequent analysis to inform future application development
+- implementing general or site-specific modifications
+- updating documentation
+- maintaining application data
+- defining enhancements.
+Support typically involves close collaboration with application developers and other specialist areas. Application maintenance and support services may be delivered directly to users of the systems or to service delivery functions.",Change and transformation,Change analysis,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise""",,,
+4 - Asset management,ASMG,"Managing the full life cycle of assets from acquisition, operation, maintenance to disposal.","Assets to be managed include components such as — but not limited to — hardware, software, data, networking, cloud services, devices, intellectual property, licences and agreements, warranties.
+The full life cycle includes acquisition, storage, distribution, movement and disposal of assets.
+Asset management requires knowledge of financial, legal and technical processes, tools and techniques.
+Activities may include — but are not limited to:
+- providing information and advice to optimise value, control costs, manage risks, support decision-making and meet regulatory or contractual requirements
+- providing advice on asset management includes areas such as — but not limited to — the maintenance of hardware assets, licensing of software, protection of intellectual property, and legal obligations
+- using international standards for asset management
+- integrating with security, change, and configuration management
+- resolving issues and risks with unauthorised assets such as — but not limited to — unlicensed copies of software, cloud services, devices.
+",Change and transformation,Change analysis,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+5 - Audit,AUDT,"Delivering independent, risk-based assessments of the effectiveness of processes, the controls, and the compliance environment of an organisation.","Audit activity is conducted with appropriate independence from the organisation’s management and may be conducted internally or for a third-party client organisation.
+Audit includes the structured analysis of the risks to the achievement of business objectives. ",Change and transformation,Change analysis,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+6 - Availability management,AVMT,Ensuring that services deliver agreed levels of availability to meet the current and future needs of the business.,"Activities may include — but are not limited to:
+- defining and agreeing availability targets
+- disaster recovery planning
+- ensuring services can collect data required to measure availability
+- monitoring, analysing and reporting on service availability
+- implementing availability management practices to support cloud-based services
+- maintaining and improving the availability of services
+- controlling and managing service availability to deliver agreed levels of availability in a cost-effective manner
+",Development and implementation,Change analysis,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+7 - Benefits management,BENM,"Forecasting, planning and monitoring the emergence and effective realisation of anticipated benefits from projects and programmes.","Activities may include — but are not limited to:
+- implementing a benefits management framework and approach
+- identifying and implementing the actions needed to optimise the business impact of individual and combined benefits
+- confirming the achievement of expected benefits.
+",Development and implementation,Change analysis,"""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+8 - Business administration,ADMN,"Managing and performing administrative services and tasks to enable individuals, teams and organisations to succeed in their objectives.","Basic administration tasks may include — but are not limited to — answering telephones, dealing with business correspondence, calling clients, customers and colleagues, greeting visitors, e-mail, filing, using digital tools to organise team meetings, making arrangements for travel and meetings, dealing with relevant suppliers.
+Management-level business administration tasks focus on planning, managing and coordinating the activities of individuals and teams to enable them to achieve their objectives.",Development and implementation,Advice and guidance,"1 - Follow,2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+9 - Business intelligence,BINT,"Developing, producing and delivering regular and one-off management information to provide insights and aid decision-making.","Typically applied in supporting operational needs through management and governance processes. May be one-off or regular activities aligned with the organisation's planning and reporting cycles.
+Activities may include — but are not limited to:
+- understanding business needs and objectives
+- identifying and validating internal and external data sets generated from a diverse range of business and operational processes
+- transforming the results of analysis into information that can be communicated to stakeholders using dashboards and reports
+- interpreting and analysing data, comparative analysis, benchmarking, trend analysis
+- bringing data together to communicate clear themes and trends
+- focusing on data quality to provide confidence for making decisions on a single version of the truth.
+",Development and implementation,Content management,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise""",,,
+10 - Business modelling,BSMO,"Producing abstract or distilled representations of real-world, business or gaming situations.","Predominantly focused on the representation of processes, roles, data, organisation and time. Models may be used to represent a subject at varying levels of detail and decomposition.
+Business models are typically created to communicate and provide insights about existing, conceptual or proposed scenarios. As such, they are likely to be working models that allow comparisons of alternative outcomes based on changing inputs and parameters.
+This skill shouldn't be applied to the creation of all diagrams related to describing and explaining business concepts. Refer to other SFIA skills, including — but not limited to — Business situation analysis, Data design and modelling, Enterprise and business architecture, Organisation design. ",Development and implementation,Content management,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+11 - Business process improvement,BPRE,Creating new and potentially disruptive approaches to performing business activities.,"Activities may include — but are not limited to:
+- analysing and designing business processes to improve business performance, create business opportunities, deliver new or improved products/services, or improve product/service value chains. Including the adoption and exploitation of data, information, new or existing technologies and cloud-based services
+- identifying and implementing improvements to business models, business operations and services with improved processes
+- assessing the costs and potential benefits of new approaches to the organisation and all stakeholders
+- developing enterprise business process management capabilities to increase organisational agility and responsiveness to change.
+",Development and implementation,Content management,"""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+12 - Business situation analysis,BUSA,Investigating business situations to define recommendations for improvement action.,"Activities may include — but are not limited to:
+- planning for business situation analysis
+- establishing the investigative approach 
+- engaging with relevant stakeholders
+- reviewing the strategic context, including the organisation’s vision, mission, objectives, strategy and tactics and external business environment
+- defining problems and analysing root causes
+- identifying potential changes to address problems or to take advantage of opportunities
+- gaining agreement to conclusions and recommendations.
+",Development and implementation,Content management,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+13 - Capacity management,CPMG,Ensuring that service components have the capacity and performance to meet current and planned business needs.,"Service components include — but are not limited to — hardware, software, network resources and software/infrastructure as a service.
+Activities may include — but are not limited to:
+- planning, design and management of the capability, performance, functionality and sustainability of service components to meet business needs
+- modelling long-term changes and short-term variations in the level of capacity required to execute the service
+- implementing capacity management practices to support cloud-based services
+- deployment of techniques to control the demand and add/reduce capacity in a cost-effective, timely manner to meet changes in demand.
+",Development and implementation,Content management,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+14 - Certification scheme operation,CSOP,"Designing, developing and operating certification schemes, accreditations and credentials, including digital credentials or badges.","The overall purpose of certification of persons is to recognise an individual's competence to perform a task or job or determine whether they have met some knowledge criteria.
+Knowledge and competence are different and the two terms should not be confused. A certification body has the responsibility to ensure that only people who demonstrate competence are awarded competence certification. 
+Certification of people provides value through public confidence and trust. Public confidence relies on a valid assessment of competence by a third party, reconfirmed at defined intervals. The certification body should act responsibly to provide confidence to interested parties in its competence, impartiality and integrity.
+Activities may include — but are not limited to:
+- verifying on request whether an individual holds a currently valid certificate and the scope of that certification, except where the law prevents the information from being disclosed
+- documenting security policies and procedures, including non-disclosure or other agreements not to release confidential examination materials or participate in fraudulent practices
+- implementing arrangements for certified persons to inform the certification body of anything affecting capability to continue meeting certification requirements.
+",Development and implementation,Content management,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+15 - Change control,CHMG,"Assessing risks associated with proposed changes and ensuring changes to products, services or systems are controlled and coordinated.","Change control is applied to anything that impacts live products, services or systems. This typically includes — applications, infrastructure, documentation, processes, configuration items, suppliers.
+Activities may include — but are not limited to:
+- managing the lifecycle of change requests — registering, assessing, authorising, planning, deploying
+- assessing risks and reducing risks to the availability, performance, security and compliance of the products and services impacted by the change
+- developing processes for standard, normal or emergency changes
+- developing methods and tools to automate change control processes to enable continuous integration.
+",Development and implementation,Data and analytics,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+16 - Competency assessment,LEDA,"Assessing knowledge, skills, competency and behaviours by any means, whether formal or informal, against frameworks such as SFIA.","Assessments may be performed in many contexts such as — but not limited to — recruitment, career progression, professional development planning or accreditation/certification. 
+Activities may include — but are not limited to:
+- evaluating and selecting assessment options
+- adopting or adapting assessment methods, tools, and techniques
+- taking into account the context of the assessment and how the results of the assessment will be used
+- aligning assessments with ethical, legal and regulatory requirements. 
+Ethical, legal and regulatory requirements are necessary to ensure the integrity of assessments and when handling personal data.",Development and implementation,Data and analytics,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+17 - Configuration management,CFMG,"Planning, identifying, controlling, accounting for and auditing of configuration items (CIs) and their interrelationships.","Configuration items (CIs) can include a wide variety of components (objects) such as — but not limited to — source code, software, products, systems, hardware, networks, buildings, suppliers, process definitions and documents. A coherent set of CIs forms a configuration.
+Activities may include — but are not limited to:
+- identifying and documenting the functional and physical characteristics of CIs
+- identifying the relationships and maintain coherence between CIs for specific configurations
+- identifying the associated configuration(s), status, version and other characteristics of CIs at distinct points in time
+- controlling changes to CI characteristics, recording and reporting change processing and implementation status
+- systematically controlling changes to a configuration and maintaining the integrity, coherence, and traceability of that configuration throughout the project, system and/or service life cycle
+- adhering to established safety, security and quality standards
+- verifying and auditing CI records for data quality and compliance with specified internal and external requirements.
+",Development and implementation,Data and analytics,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+18 - Consultancy,CNSL,"Providing advice and recommendations, based on expertise and experience, to address client needs.","Consultancy may deal with one specialist subject area, or be wide ranging and address strategic business issues. May also include support for the implementation of any agreed solutions.
+Activities include — but are not limited to:
+- leading and managing a consultancy practice
+- leading and managing consultancy teams and/or consultancy assignments
+- delivering consultancy assignments.
+The Consultancy skill defined in SFIA applies to the delivery of consultancy as part of formal or informal consultancy agreements. 
+SFIA describes the general provision of advice, guidance or problem solving related to an individual's responsibilities by:
+- the responsibilities described by the SFIA generic attributes
+- the SFIA professional skill descriptions which make reference to providing advice and guidance.
+",Development and implementation,Data and analytics,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+19 - Content authoring,INCA,"Planning, designing and creating textual information, supported where necessary by graphical content.","Content may be delivered via digital, print, or other media.
+Activities may include — but are not limited to:
+- understanding the requirements of the intended audience in collaboration with clients and/or representatives of the intended audience
+- applying the principles of authoring, designing, controlling, and presenting textual information
+- taking into consideration how information may be presented, identified, and searched for
+- managing the authoring process and the interaction with editorial and publication processes
+- gathering source information and creating draft content
+- identifying appropriate illustrations or graphics
+- understanding and applying copyright rules and related legal issues
+- creating and using guidelines to present information clearly, concisely, and accurately
+- designing collections of artefacts, spread across multiple media.
+",Development and implementation,Data and analytics,"1 - Follow,2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+20 - Content publishing,ICPM,"Managing and continually improving the processes that collect, assemble and publish content.","Information content may be in structured, unstructured or semi-structured forms.
+Activities may include — but are not limited to:
+- understanding the requirements of the organisation and the desired audience
+- evaluating different publishing methods and options, and their costs, features and benefits — including open source and proprietary options
+- developing and implementing a framework for content publishing, including preferred media, overall information structure, and rules for formatting content
+- converting content into a format suitable for publication
+- delivering content to the user at the point of need
+- managing copyright, data protection and other legal issues associated with publishing and re-using published information and data
+- ensuring published material is in a form accessible to all potential users, including those with disabilities
+- releasing or retiring content.
+",Development and implementation,Data and analytics,"1 - Follow,2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+21 - Continuity management,COPL,"Developing, implementing and testing a business continuity framework.","Activities may include — but are not limited to:
+- identifying potential threats and assessing their business impact
+- developing plans and procedures to respond to an incident
+- ensuring critical business functions can continue with a planned level of disruption
+- ensuring an acceptable level of service can be restored after a disruption
+- developing organisational resilience
+- assuring that continuity is being designed into systems, processes and ways of working
+- implementing continuity management practices for cloud-based services
+- enabling continuous delivery, deployment and integration of applications and infrastructure without adverse impact or disruption to service.
+Incidents have a variety of causes, including — but not limited to — cyber-attacks, data breaches, organised crime, fires, floods, natural disasters, pandemics, health emergencies and supply chain failure.",Development and implementation,Data and analytics,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+22 - Contract management,ITCM,Managing and controlling the operation of formal contracts for the supply of products and services.,"Activities may include — but are not limited to:
+- managing contract creation, execution, and analysis
+- recommending actions to optimise financial and operational performance and minimise risk
+- contract management for cloud-based services.
+",Development and implementation,Data and analytics,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+23 - Customer service support,CSMG,Managing and operating customer service or service desk functions.,"Customer service support can be managed and delivered through various channels including — but not limited to — teams of people in a single location, virtual teams of people in many locations, automated technology and service bots.
+Activities may include — but are not limited to:
+- managing customer service functions and teams
+- acting as a point of contact for users and customers
+- responding to reported issues
+- handling requests for information
+- handling requests for access to applications, systems, services
+- responding to service requests.
+",Development and implementation,Data and analytics,"1 - Follow,2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+24 - Data engineering,DENG,"Designing, building, operationalising, securing and monitoring data pipelines and data stores.","Activities may include — but are not limited to:
+- identifying data sources, data processing concepts and methods
+- evaluating, designing and implementing on-premise, cloud-based and hybrid data engineering solutions
+- structuring and storing data for uses including — but not limited to — analytics, machine learning, data mining, sharing with applications and organisations
+- harvesting structured and unstructured data
+- integrating, consolidating and cleansing data
+- migrating and converting data
+- applying ethical principles in handling data
+- ensuring appropriate storage of data in line with relevant legislation
+- building in security, compliance, scalability, efficiency, reliability, fidelity, flexibility and portability.
+",Development and implementation,Data and analytics,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+25 - Data management,DATM,"Developing and implementing plans, policies, and practices that control, protect and optimise the value of data assets.","Activities may include — but are not limited to:
+- managing data and information in all its forms
+- analysing information structures including — but not limited to — logical analysis of taxonomies, data and metadata
+- developing innovative ways of managing the information assets of the organisation
+- developing plans, policies and practices related to areas including — but not limited to — classification, storage, security, quality, sharing, availability, retrieval, retention and publishing
+- ensuring data is appropriately stored and archived, in line with relevant legislation
+- implementing data management practices for cloud-based services
+- applying ethical principles when handling data.
+",Development and implementation,Data and analytics,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+26 - Data modelling and design,DTAN,Developing models and diagrams to represent and communicate data requirements and data assets.,"Data modelling supports activities such as — but not limited to:
+- helping organisations understand their data assets, developing software systems, and the relationships between real-world entities
+- data engineering, integration and interoperability
+- data retrieval
+- data governance and master data management.
+There is a range of different types of data models. However they typically contain the same components — entities, relationships, attributes and domains.
+Types of data models include — but are not limited to — relational, object-oriented, NoSQL, time-based.
+Data models are used to communicate different levels of detail — conceptual, logical and physical. ",Development and implementation,Data and analytics,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise""",,,
+27 - Data science,DATS,"Applying mathematics, statistics, data mining and predictive modelling techniques to gain insights, predict behaviours and generate value from data.","Data science is typically used for analysing high volume, high velocity and high variety data (numbers, symbols, text, sound and image).
+Activities may include — but are not limited to:
+- integrating methods from mathematics, statistics and probability modelling using specialised programming languages, tools and techniques
+- sourcing and preparing data for analysis
+- identifying, validating and exploiting internal and external data sets generated from a diverse range of processes
+- developing forward-looking, predictive, real-time, model-based insights to create value and drive effective decision-making
+- finding, selecting, acquiring and ingesting data sources,
+- integrating and cleaning data to make it fit for purpose
+- developing hypotheses and exploring data using models and analytics sandboxes
+- refining requirements, validating, training and evolving models over time to discover deeper insights, make predictions, or generate recommendations.
+- using advanced analytic techniques including — but not limited to — data/text mining, machine learning, pattern matching, forecasting, visualisation, semantic analysis, sentiment analysis, network and cluster analysis, multivariate statistics, graph analysis, simulation, complex event processing, neural networks.
+",Development and implementation,Data and analytics,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+28 - Data visualisation,VISL,"Facilitating understanding of data by displaying concepts, ideas, and facts using graphical representations.","Activities may include — but are not limited to:
+- condensing and encapsulating data characteristics, making it easier to surface opportunities, identify risks, analyse trends, and drive effective decision-making
+- presenting findings and data insights in creative ways to facilitate the understanding of data across a range of technical and non-technical audiences.
+The skill is typically put into practice by using specialist analytics tools. Specialisation in this skill implies a requirement to use more than just standard office software to create graphical representations of simple data.",Development and implementation,Data and analytics,"3 - Apply,4 - Enable,""5 - Ensure, advise""",,,
+29 - Database administration,DBAD,"Installing, configuring, monitoring, maintaining and improving the performance of databases and data stores.","Activities may include — but are not limited to:
+- designing operational databases
+- designing on-premise or cloud-based databases
+- defining physical or virtual data warehouse structures required to support machine learning, business intelligence or data analytics services
+- designing operational data stores to integrate data from multiple sources to support data pipelines and enable additional operations on the data.
+",Development and implementation,"Governance, risk and compliance","2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise""",,,
+30 - Database design,DBDS,"Specifying, designing and maintaining mechanisms for storing and accessing data.","Activities may include — but are not limited to:
+- designing operational databases
+- designing on-premise or cloud-based databases
+- defining physical or virtual data warehouse structures required to support machine learning, business intelligence or data analytics services
+- designing operational data stores to integrate data from multiple sources to support data pipelines and enable additional operations on the data.
+",Development and implementation,"Governance, risk and compliance","3 - Apply,4 - Enable,""5 - Ensure, advise""",,,
+31 - Demand management,DEMM,Analysing and proactively managing business demand for new services or modifications to existing service features or volumes.,"Activities may include — but are not limited to:
+- collaborating with the business to prioritise demand to improve business value
+- developing and communicating insights into patterns of demand
+- performing what-if analyses and scenario planning to develop insights and proposals to improve business value
+- proposing responses to meet both short-term and long-term demand and facilitating decision-making and planning
+- integrating demand analysis and planning with complementary strategic, operational and change planning processes.
+",Development and implementation,"Governance, risk and compliance","""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+32 - Digital forensics,DGFS,Recovering and investigating material found in digital devices.,"Activities may include — but are not limited to:
+- collecting, processing, preserving and analysing material
+- presenting forensic evidence based on the totality of findings.
+The scope of digital forensics includes finding evidence on computers and any device capable of storing digital data. The evidence may be used in support of security vulnerability mitigation, criminal, fraud, counterintelligence, or law enforcement investigations.",Relationships and engagement,"Governance, risk and compliance","3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+33 - Emerging technology monitoring,EMRG,"Identifying and assessing new and emerging technologies, products, services, methods and techniques.","Activities may include — but are not limited to:
+- assessing relevance and potential impacts — which may be threats or opportunities
+- communicating the impact of emerging technologies. 
+Assessments may relate to business enablers, cost, performance or sustainability",Relationships and engagement,"Governance, risk and compliance","4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+34 - Employee experience,EEXP,"Enhancing employee engagement and ways of working, empowering employees and supporting their health and wellbeing.","Activities may include — but are not limited to:
+- providing opportunities for personal growth and learning
+- providing sufficient personal freedom to decide how to achieve work objectives, with support available when needed
+- supporting different views, working styles and behaviours within the work environment
+- providing a safe and secure working environment with the resources needed to do the job
+- providing transparent communications and building trust in leadership
+- providing a holistic approach in support of mental and physical well being.
+Note that the term employee is not limited to specific terms of employment. Depending on the employer it may include temporary and contract staff as well as salaried employees.",Relationships and engagement,"Governance, risk and compliance","4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+35 - Enterprise and business architecture,STPL,"Aligning an organisation's technology strategy with its business mission, strategy, and processes and documenting this using architectural models.","Enterprise architecture is typically considered across four domains: business, data, applications and infrastructure technologies. It may also include information security or legal and regulatory compliance.
+Activities may include — but are not limited to:
+- translating business strategies and objectives into an operating model
+- assessing current capabilities and identifying required changes in capabilities to achieve objectives
+- describing the interrelationships between people, organisation, service, process, data, information, technology and the external environment
+- creating, iterating, and maintaining architectural models and views embodying the key principles that describe the organisation's future state, and that enable its evolution
+- implementing enterprise architecture working practices to support and enable iterative/agile working
+- interpreting business goals and drivers
+- documenting and communicating constraints, standards and guiding principles necessary to define, assure and govern the required evolution
+- using architectural models and processes to facilitate changes in the organisation's structure, business processes, information or data, business systems and infrastructure
+- describing where and why the enterprise will benefit from cloud-based services.
+",Relationships and engagement,Security and privacy,"""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+36 - Facilities management,DCMA,"Planning, designing and managing the buildings, space and facilities which, collectively, make up the IT estate.","Activities may include — but are not limited to:
+- using data centre management tools
+- provisioning and managing the physical environment, including power, space, and cooling
+- adhering to established safety, security and quality standards
+- monitoring the environment and providing statistics on energy usage
+- controlling physical access
+- adhering to mandatory policies and regulations concerning health and safety at work.
+",Strategy and architecture,Security and privacy,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+37 - Feasibility assessment,FEAS,"Defining, evaluating and describing business change options for financial, technical and business feasibility, and strategic alignment.","Activities may include — but are not limited to:
+- generating and defining options
+- ensuring options align with the organisation’s vision, mission, objectives, strategy and tactics
+- engaging with relevant stakeholders and specialists
+- evaluating options for financial, technical and business feasibility.
+Feasibility assessment is multi-dimensional. Options for change must be evaluated from several dimensions including — but not limited to — financial, technical, organisational capability and culture, strategic context, economic and/or commercial environment.
+Feasibility assessment typically results in a documented business case used to support organisational decision-making about proposed investments. This skill is focused on the generation, analysis and documentation of investment options.",Strategy and architecture,Security and privacy,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+38 - Financial management,FMIT,Supporting the effective use and control of financial resources.,"This skill usually applies to specialist financial management roles — not to managers responsible for their own operational or project budgets.
+Financial management needs to be aligned with business strategies and to working practices in areas including — but not limited to — governance, risk management, portfolio, programme and project management, asset management.
+Activities may include — but are not limited to:
+- financial management, control, and stewardship of assets and resources
+- supporting decision-making
+- budgeting, forecasting, and accounting for financial resources
+- financial management for consumption based costs such as cloud-based services
+- implementing financial management practices to support iterative/agile working
+- developing service, projects and component cost models
+- defining charging models for the provision of services 
+- applying accounting standards and policies and ensuring compliance with governance, legal and regulatory requirements.
+",Strategy and architecture,Security and privacy,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+39 - Governance,GOVN,"Defining and operating a framework for making decisions, managing stakeholder relationships, and identifying legitimate authority.","Governance can be applied to specific activities or may be a single integrated framework across an organisation.
+Specialisms include — but are not limited to — security, information, technology, architectures, enterprise IT, service management.
+An organisation’s obligations may be external or internal including — but not limited to — legislative, regulatory, contractual and adherence to agreed standards/policies or ethical frameworks. 
+Activities may include — but are not limited to:
+- defining and operating the system of rules, practices, and processes by which an organisation makes decisions, manages stakeholders’ relationships, and identifies legitimate authority
+- determining how to direct, evaluate and monitor an organisation’s activities
+- developing and operating strategic and operational frameworks, policies, decision-making, business processes and plans to meet stakeholder requirements.
+Governance is explicitly referenced in many SFIA skills. Professionals may contribute specialist knowledge to governance processes, reviews and developments — but that does not imply they need the SFIA skill of Governance.",Strategy and architecture,Security and privacy,"""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+40 - Hardware design,HWDE,Specifying a hardware design model for a defined system architecture.,"Examples of computing and communications equipment include — but are not limited to — semiconductor processors, high performance computing (HPC) architectures and digital signals processor (DSP) and graphics processor chips.
+Activities may include — but are not limited to:
+- defining how hardware components fit into the system and integrate with software if required
+- selecting, designing, specifying, integrating and prototyping of hardware components
+- adhering to industry standards including compatibility, safety, security, reliability and sustainability
+This is typically related to the integration with, or connection to, an IT infrastructure or network.",Strategy and architecture,Security and privacy,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+41 - High-performance computing,HPCC,Using advanced computer systems and special programming techniques to solve complex computational problems.,"High-performance computing (HPC) is the use of super computers and parallel processing techniques for solving complex computational problems. HPC technology focuses on developing parallel processing algorithms and systems.
+High-performance computing is typically used for solving advanced problems and performing research activities through computer modelling, simulation and analysis. 
+HPC technology is implemented in a variety of disciplines including — but not limited to:
+- biosciences and molecular modelling
+- geographical data
+- oil and gas exploration
+- climate modelling and weather forecasting
+- physical simulations
+- cryptanalysis.
+The terms high-performance computing and supercomputing are sometimes used interchangeably.",Strategy and architecture,Skills management,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+42 - Incident management,USUP,"Coordinating responses to incident reports, minimising negative impacts and restoring service as quickly as possible.","Activities may include — but are not limited to:
+- designing and implementing different processes and procedures for different categories of incidents including — but not limited to — major incidents, information or cybersecurity incidents, complex incidents, low impact incidents
+- establishing incident response teams or security incident response teams
+- routing requests for help to appropriate functions for resolution
+- monitoring resolution activity
+- informing users, customers and key stakeholders of progress towards service restoration.
+Incidents can impact many areas — such as but not limited to — business operations, information security, IT systems, services, employees, customers, or other vital business functions. 
+Different roles/groups may be needed to diagnose and resolve incidents — such as — users, subject matter experts, service desk, support teams, suppliers, partners. Although they play a part in the incident management process, they do not necessarily need incident management skills.",Strategy and architecture,Skills management,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise""",,,
+43 - Information assurance,INAS,"Protecting against and managing risks related to the use, storage and transmission of data and information systems.","Activities include — but are not limited to:
+- management of risk in a pragmatic and cost-effective manner to ensure stakeholder confidence
+- formal system certification and accreditation
+- technical assessment and evaluation to determine control effectiveness.
+Information and data are typically protected by following five principles:
+- availability — ensuring that authorised users can easily access the information they need
+- integrity — protecting information from unauthorised modification, retrieval or deletion
+- authenticity — validating the identity of users and devices
+- confidentiality — restricting access to authorised users only
+- non-repudiation — preventing possible denial that an action occurred by ensuring data is true to its origin.
+",Strategy and architecture,Skills management,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+44 - Information management,IRMG,"Planning, implementing and controlling the full life cycle management of digitally organised information and records.","Information and records are held in many forms including — but not limited to — digital documents, printed material, microform, e-mail, chats and websites. Information may be structured or unstructured and may be created by internal or external sources.
+Specific laws and regulations may require organisations to maintain records of certain business activities and transactions for a minimum period.
+Activities may include — but are not limited to:
+- identifying, classifying, valuing, processing, storing, archiving, destroying information and records
+- governance of how information is used to support decision-making, business processes and digital services
+- developing and promoting strategies and policies for the design of information architectures, structures and taxonomies
+- capturing and maintaining evidence of and information about business activities and transactions in the form of records
+- implementing systems of cataloguing, metadata, indexing, and classification standards and methods used to organise recorded information
+- ensuring compliance with legal obligations.
+",Strategy and architecture,Skills management,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+45 - Information security,SCTY,Defining and operating a framework of security controls and security management strategies.,"The purpose of security controls and management strategies is to:
+- maintain the security, confidentiality, integrity, availability, accountability of information systems
+- ensure information systems comply with legislation, regulation and relevant standards.
+Activities may include — but are not limited to:
+- selecting, adopting and adapting security control frameworks
+- designing, justifying and implementing security management strategies
+- identifying risks with technical solution architectures
+- ensuring security principles are applied during design and development to reduce risk.
+Examples of types of security controls include — but are not limited to:
+- physical controls 
+- procedural or administrative controls 
+- technical or logical controls 
+- legal and regulatory or compliance controls.
+These activities are typically performed in collaboration with specialists in other areas including — but not limited to — legal, technical infrastructure, audit, architecture, software engineering.",Strategy and architecture,Sales and marketing,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+46 - Information systems coordination,ISCO,Coordinating information and technology strategies where the adoption of a common approach would benefit the organisation.,"This skill is typically applied within a large organisation in which information and technology strategy function is devolved to autonomous units, or within a collaborative enterprise of otherwise independent organisations. 
+Examples where a common approach would benefit the organisation include — but are not limited to — shared services, service integration and management, sourcing, supplier management, cloud strategy, enterprise architecture, security.",Strategy and architecture,Sales and marketing,"""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+47 - Innovation,INOV,"Identifying, prioritising, incubating and exploiting opportunities provided by information, communication and digital technologies.","This skill focuses on a systematic, organisational approach to innovation. It is not describing personal behaviours, such as creativity.
+Activities may include — but are not limited to:
+- developing and implementing processes, tools and infrastructures to support innovation
+- implementing innovation practices to support iterative/agile working
+- facilitating internal and external communities, employees, commercial partners, customers, users and other stakeholders in the innovation process
+- providing a framework for governance, monitoring and reporting on the innovation process.
+",Delivery and operation,Sales and marketing,"""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+48 - Investment appraisal,INVA,Assessing the attractiveness of possible investments or projects.,"Activities may include — but are not limited to:
+- selecting and using appropriate techniques to compare financial investments and returns
+- using recognised investment appraisal techniques to compare investment and returns include payback period, accounting rate of return, discounted cash flow (net present value and internal rate of return)
+- collecting data using appropriate top-down or bottom-up approaches
+- including other factors into the appraisal approach — such as legal considerations, environmental or social impact, operational benefits, risk
+- developing scoring methods to allow for subjective benefits or dis-benefits and to aggregate the results of multiple appraisal methods to help compare options
+- documenting and presenting the results of investment appraisals
+- establishing investment appraisal as a tool for selecting projects/initiatives for further investigation.
+- identifying possible sources of funding and the impact on the investment appraisal.
+",Delivery and operation,Sales and marketing,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+49 - IT infrastructure,ITOP,"Deploying, configuring and operating IT Infrastructure.","IT infrastructure components include, but are not limited to, physical devices, virtual resources, infrastructure-related software, middleware, network services and data storage. Infrastructure components may be on-premises, outsourced, or provisioned as cloud services.
+Activities may include — but are not limited to:
+- preparing for new or changed services to meet defined needs of organisational users or providers
+- maintaining and enhancing the IT infrastructure and infrastructure components, including task automation via tools and coding
+- managing and applying software updates
+- building and managing systems and components in virtualised and cloud computing environments
+- monitoring the performance of systems and services related to their contribution to organisation performance, security and sustainability.
+",Delivery and operation,Sales and marketing,"1 - Follow,2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise""",,,
+50 - Knowledge management,KNOW,Managing vital knowledge to create value for the organisation.,"Knowledge management aims to improve performance, support decision-making and mitigate risks. 
+Activities may include — but are not limited to:
+- systematically capturing, sharing, developing and exploiting the collective knowledge of the organisation
+- tailoring knowledge management approaches
+- developing a supportive and collaborative knowledge sharing culture to drive the successful adoption of technology solutions for knowledge management
+- providing access to informal, tacit knowledge as well as formal, documented, explicit knowledge
+- facilitating internal and external collaboration and communications
+- establishing and supporting communities of practice
+- capturing, organising and developing information, knowledge and stories from employees, customers and external partners
+- external benchmarking.
+",Delivery and operation,Sales and marketing,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+51 - Learning and development management,ETMG,"Delivering management, advisory and administrative services to support the development of knowledge, skills and competencies.","Activities may include — but are not limited to:
+- developing the full range of professional, business or technical capabilities required by the organisation
+- developing learning and development strategies and policies
+- identifying appropriate learning and development solutions, accreditations and qualifications
+- selecting, tailoring and adopting skills and competency frameworks
+- selecting and operating learning management systems
+- administering, documenting, tracking, reporting on learning and development activities.
+",Delivery and operation,Sales and marketing,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+52 - Learning delivery,ETDL,"Transferring knowledge, developing skills and changing behaviours using a range of techniques, resources and media.","Learning delivery uses a range of techniques, resources and media including — but not limited to — face-to-face learning, e-learning, on-line virtual environments, field-work and projects, self-assessment, peer-assisted learning, simulation. 
+Typically a blend of techniques will be used which can incorporate both formal and informal learning activities.
+Learning delivery includes promoting professional attitudes in order to facilitate learning and development.",Delivery and operation,Sales and marketing,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise""",,,
+53 - Learning design and development,TMCR,"Designing and developing resources to transfer knowledge, develop skills and change behaviours.","Includes instructional design, content development, configuration and testing of learning environments, and use of appropriate current technologies such as audio, video, simulation and assessment.
+Scope includes learning and development activities for the workplace, for all levels of education and blended models such as apprenticeships and work placements.
+Activities may include — but are not limited to:
+- specifying, designing, creating, packaging and maintaining materials and resources
+- assimilating information from existing sources
+- selecting and presenting material in a form suitable to the intended purpose and audience
+- securing third-party accreditation
+- creating simulated data, replicating external systems, interfaces and assessment systems for simulated learning environments.
+",Delivery and operation,Sales and marketing,"3 - Apply,4 - Enable,""5 - Ensure, advise""",,,
+54 - Machine learning,MLNG,Developing systems that learn through experience and by the use of data.,"Activities may include — but are not limited to:
+- evaluating trained models for their performance, robustness and bias
+- selecting and using metrics to examine outcomes
+- diagnosing and resolving issues before and after deployment
+- anticipating the organisational implications of machine learning models regarding ethics, bias, privacy, and data protection
+- establishing traceability for the outcomes produced by machine learning systems.
+",Delivery and operation,Sales and marketing,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+55 - Marketing,MKTG,"Researching, analysing and stimulating potential or existing markets for products and services.","Activities may include — but are not limited to:
+- supporting business development
+- generating a satisfactory flow of customer enquiries
+- developing and managing marketing strategies, campaigns and day-to-day marketing activity delivered through appropriate channels
+- market segmentation
+- approaches for developing and supporting customer loyalty.
+",Delivery and operation,Sales and marketing,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+56 - Measurement,MEAS,Developing and operating a measurement capability to support agreed organisational information needs.,"Measurement can be applied to organisations, projects, processes, and work products.
+Activities may include — but are not limited to:
+- planning, implementation, and control of activities to measure attributes of processes, products, and services
+- using measures to assess performance, progress, and provide indications and insights to actual or potential problems, issues, and risks
+- identifying requirements for measurement
+- implementing measurement to support iterative/agile working practices
+- selecting measures and measurement scales, setting target values and thresholds
+- establishing data collection and analysis methods — including automation.
+",Delivery and operation,People management,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+57 - Methods and tools,METL,Ensuring methods and tools are adopted and used effectively throughout the organisation.,"There is a wide range of methods and tools supporting areas such as — but not limited to — planning, development, testing, operation, management and maintenance of systems.
+Activities may include — but are not limited to:
+- assessing, selecting and implementing methods and tools
+- measuring, tailoring, improving and automating the use of methods and tools.
+",Delivery and operation,People management,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+58 - Network design,NTDS,"Designing communication networks to support strategic and operational requirements and producing network strategies, architectures, policies and related documentation.","Network design covers all aspects of the communications infrastructure including — but not limited to — networks that are wired or wireless, digital or analogue, virtual or physical, local area, wide area, mobile/cellular and any other defined protocols and scales of operation.",Delivery and operation,Change implementation,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+59 - Network support,NTAS,Providing maintenance and support services for communications networks.,"Activities may include — but are not limited to:
+- monitoring network performance
+- investigating and resolving problems
+- devising work-arounds and correcting faults
+- making general or site-specific modifications
+- operational configuration of network components
+- testing networks, both routinely and after modification or fault/fix
+- adhering to established safety, security and quality standards
+- providing information, advice or training to users about networks functionality.
+Support may be provided direct to users of the network or to service delivery functions.",Delivery and operation,Change implementation,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise""",,,
+60 - Numerical analysis,NUAN,"Creating, analysing, implementing, testing and improving algorithms for numerically solving mathematical problems.","Numerical analysis is the area of mathematics and computer science that creates, analyses, and implements algorithms for numerically solving mathematical problems. Numerical analysis is required for applications including — but not limited to:
+- simulations of physical systems
+- machine learning
+- data analytics 
+Numerical analysis is concerned with:
+- floating-point arithmetic and the resulting accumulation of rounding errors (integer arithmetic which has different considerations)
+- consideration of the numerical stability, condition numbers, accuracy, computational complexity and usability of algorithms that solve mathematical problems.
+",Delivery and operation,Change implementation,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+61 - Organisation design and implementation,ORDI,"Planning, designing and implementing an integrated organisation structure and culture.","Activities may include — but are not limited to:
+- facilitating changes needed to adapt to changes in technologies, society, new operating models and business processes
+- identifying key attributes of the required culture and how these can be implemented and reinforced to bring about improved organisational performance.
+The scope of organisation design can be wide — including the workplace environment, location strategy and number of locations required, role profiles, performance measurements, competencies and skills.",Delivery and operation,Systems development,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+62 - Organisational capability development,OCDV,"Providing leadership, advice and implementation support to assess organisational capabilities and to identify, prioritise and implement improvements.","Activities may include — but are not limited to:
+- selecting, adopting and integrating appropriate industry frameworks and models to guide improvements
+- using capability maturity assessments, metrics, process definition, process management
+- building repeatable and reliable capabilities through a process of trial, feedback, learning and continual evolution
+- developing appropriate techniques, tools and enhanced skills
+- designing and delivering integrated people, process and technology solutions to deliver improved organisational performance in line with strategic plans and objectives
+- identifying organisational priorities for enhancing performance, satisfying new business opportunities or responding to external drivers.
+The scope of improvement is typically organisation-wide but may also be highly focused on areas such as — but not limited to — business agility, software development, systems development, project delivery, service integration and management, service delivery, information and cyber-security.",Delivery and operation,Systems development,"""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+63 - Organisational change management,CIPM,"Planning, designing and implementing activities to transition the organisation and people to the required future state.","Activities may include — but are not limited to:
+- developing a business change implementation plan to identify required changes to processes, procedures, systems, structures, ways of working
+- using a structured process and set of tools for leading the people side of change 
+- implementing organisational change management practices to support iterative/agile working
+- assessing change readiness and capacity including — but not limited to — planning around key business cycles, selecting appropriate customers for migration
+- assessing and developing change management capabilities 
+- engagement and tailored communication with stakeholders and everyone impacted by the change
+- monitoring the impact of the change management plan and sustaining and embedding change
+- coaching change sponsors.
+",Delivery and operation,Systems development,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+64 - Organisational facilitation,OFCL,Supporting workgroups to implement principles and practices for effective teamwork across organisational boundaries and professional specialisms.,"Activities may include — but are not limited to:
+- developing and implementing team principles and practices for decision-making, prioritisation, problem-solving
+- helping teams adopt new/contemporary working practices and behaviours including — but not limited to — specific agile methodologies, processes, tools and ceremonies
+- helping teams plan and prioritise their workload based on their capacity and track record of working
+- removing barriers or impediments to teams achieving their mission and objectives
+- providing guidance and suggestions to support team members in adopting self-management and cross-functional working
+- reviewing team effectiveness — identifying what went well, what could be improved, and what might be added or removed from their working practices.
+Workgroups may be focused on project, product or process management or may be focused on specific problems or deliverables.
+Workshop facilitation tools and techniques form part of applying this skill — but are not sufficient. This skill describes a broader set of responsibilities.",Delivery and operation,Systems development,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+65 - Penetration testing,PENT,Testing the effectiveness of security controls by emulating the tools and techniques of likely attackers.,"Penetration testing may be a stand-alone activity or an aspect of acceptance testing prior to an approval to operate.
+Activities include — but are not limited to:
+- ethical hacking — using the same tools and techniques as an adversary to safely exploit security weaknesses
+- demonstrating how an adversary can subvert security goals or achieve specific adversarial objectives
+- evaluating the effectiveness of current/planned defences or mitigation controls
+- assuring the security of networks, systems, and applications
+- identifying insights into the business risks of various vulnerabilities
+- testing network, infrastructure, web and mobile applications for weaknesses
+- checking patch levels and configurations
+- social engineering.
+",Delivery and operation,Systems development,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+66 - Performance management,PEMT,Improving organisational performance by developing the performance of individuals and workgroups to meet agreed objectives with measurable results.,"The term workgroup is used to be inclusive of different organisational structures. A workgroup is a collection of people working together on interdependent tasks to achieve shared objectives. This includes — but is not limited to — permanent/business-as-usual teams, cross-functional teams, squads or workgroups formed to deliver a specific outcome.
+Activities may include — but are not limited to:
+- setting workgroup objectives aligned to organisational drivers
+- supporting individual growth to achieve objectives
+- forming effective teams
+- developing effective working relations within the workgroup
+- developing effective working relations with other workgroups, partners and individuals who they collaborate with to achieve workgroup objectives.
+",Delivery and operation,Systems development,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+67 - Personal data protection,PEDP,Implementing and operating a framework of controls and management strategies to promote compliance with personal data legislation.,"Includes legislation regulating the holding, use and disclosure of personal data.
+Activities may include — but are not limited to:
+- providing expert advice on policies, procedures and governance
+- designing privacy-friendly products, services and systems that respect customer privacy and embed data protection
+- performing impact assessments, identify risks whilst enabling prudent use of data and addressing issues with products and services
+- responding to incidents
+- following legislative developments
+- creating privacy risk models and frameworks
+- working with subject matter experts in areas such as — but not limited to — legal, public relations, learning and development, procurement, security, data management, architecture.
+",Delivery and operation,Systems development,"""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+68 - Portfolio management,POMG,"Developing and applying a management framework to define and deliver a portfolio of programmes, projects and/or ongoing services.","Activities include — but are not limited to:
+- alignment of investment with specific business strategies and objectives
+- a strategic investment appraisal and decision-making process
+- assessment of cost, risk, inter-dependencies, and impact on existing business activities
+- identifying issues with portfolio structure, cost, risk, inter-dependencies, impact on current business activities and the strategic benefits to be realised
+- implementing portfolio management practices that support iterative/agile working
+- measurement and objective evaluation of potential changes and the benefits to be realised
+- prioritisation of resource utilisation and changes to be implemented
+- regular review of portfolios
+- management of the service pipeline (proposed or in development), service catalogue (live or available for deployment) and retired services.
+",Delivery and operation,Systems development,"""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+"69 - ""Portfolio, programme and project support""",PROF,"Providing support and guidance on portfolio, programme and project management processes, procedures, tools and techniques.","Activities may include — but are not limited to:
+- defining portfolios, programmes, and projects
+- cultivating and applying new or changed working practices across a portfolio
+- managing the rate at which new projects are started to fit the available capacity
+- advising on the development, production and maintenance of business cases time, resource, cost and exception plans
+- advising on the use of software tools
+- tracking and reporting progress and performance 
+- facilitating portfolio/programme/project meetings and workshops
+- advising and sharing knowledge on standards and how to comply.
+",Delivery and operation,Systems development,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+70 - Problem management,PBMG,Managing the life cycle of all problems that have occurred or could occur in delivering a service.,"The primary objectives of problem management are to:
+- proactively prevent problems and resulting incidents from happening
+- reactively resolve problems that have already happened
+- eliminate recurring incidents
+- minimise the impact of incidents that cannot be prevented.
+Activities may include — but are not limited to:
+- detecting and logging problems
+- classifying and prioritising problems
+- initiating actions to resolve problems
+- investigating and diagnosing problems
+- implementing remedies to prevent future incidents
+- reporting on problems.
+",Delivery and operation,Systems development,"3 - Apply,4 - Enable,""5 - Ensure, advise""",,,
+71 - Product management,PROD,"Managing and developing products or services through their full life cycle from inception, growth, maturity, decline to retirement.","Product management can be applied to either internal or external products.
+Externally — the focus will usually be on measures such as, but not limited, to customer needs, revenue and profit.
+Internally — the focus will usually be on measures such as, but not limited to, user needs and business value.
+A product life cycle typically moves from inception, growth, maturity, decline to retirement. The product development life cycle model used will be based on the context of the work and may be selected from predictive (plan-driven) or adaptive (iterative/agile) approaches.",Delivery and operation,Systems development,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+72 - Professional development,PDSV,Facilitating the professional development of individuals in line with their career goals and organisational requirements.,"Activities may include — but are not limited to:
+- negotiating, reviewing, monitoring and validating each individual's professional development plans
+- providing professional development advice and support for individuals
+- identifying appropriate learning and development or career-enhancing activities
+- liaising with internal and external providers of learning and development
+- adopting a suitable framework for skills, knowledge and competencies such as SFIA
+- adopting or defining professional career pathways
+- creating accreditation and qualification approaches or adopting industry frameworks
+- evaluating the benefits of continual professional development activities.
+",Delivery and operation,Systems development,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+73 - Programme management,PGMG,"Identifying, planning and coordinating a set of related projects and activities in support of specific business strategies and objectives.","Activities may include — but are not limited to:
+- managing interdependencies in support of specific business strategies and objectives
+- maintaining a strategic view over the set of projects
+- providing the framework for implementing business initiatives, or large-scale change
+- implementing programme management practices to support iterative/agile working
+- conceiving, maintaining and communicating a vision of the programme's outcomes and associated benefits
+- agreeing business requirements, and translation of requirements into operational plans
+- determining, monitoring and reviewing programme scope, costs, schedule and expected benefits
+- scheduling programme resources, inter-dependencies and programme risk.
+",Delivery and operation,Systems development,"""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+74 - Programming/software development,PROG,Developing software components to deliver value to stakeholders.,"Activities may include — but are not limited to:
+- identifying, creating and applying software development and security standards and processes
+- planning and designing software components
+- estimating time and effort required for software development
+- constructing, amending and verifying software components
+- applying test-driven development and ensuring appropriate test coverage
+- using peer review techniques — such as pair programming
+- documenting software components
+- understanding and obtaining agreement to the value of the software components to be developed
+- selecting appropriate development methods and life cycles
+- applying recovery techniques to ensure the software being developed is not lost 
+- implementing appropriate change control to software development practices
+- resolving operational problems with software and fixing bugs
+Depending on requirements and the characteristics of the project or assigned work — software development methods and life cycles can be predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.",Delivery and operation,Systems development,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+75 - Project management,PRMG,"Delivering agreed outcomes from projects using appropriate management techniques, collaboration, leadership and governance.","This skill is applicable to all project management techniques and life cycles — which can be on a continuum from predictive (plan-driven) approaches to adaptive (iterative/agile) approaches.
+Activities may include — but are not limited to:
+- selecting techniques and life cycle models based on the context of the project 
+- establishing team structures and a collaborative working environment
+- communicating with stakeholders and maintaining awareness of business needs and priorities
+- using visual techniques for project tracking and reporting 
+- timeboxing and incremental deliveries 
+- defining deliverables, milestones and dependencies
+- applying change control and risk management processes
+- acquiring the necessary resources and skills
+- agreeing constraints of cost, timescales, quality and scope
+- reviewing experiences and learning from current and previous projects
+- ensuring that projects are formally closed and reviewed.
+An understanding of project size and complexity is helpful when applying the project management skill. Typical factors that influence project complexity include the complexity of resourcing, scale of organisational impact, use of new technologies, number of interdependences, stability of requirements, business implications, and risks.",Delivery and operation,Systems development,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+76 - Quality assurance,QUAS,"Assuring, through ongoing and periodic assessments and reviews, that the organisation’s quality objectives are being met.","Quality assurance provides confidence to internal and external stakeholders that quality requirements will be fulfilled.
+Quality assurance may relate to any area where quality standards are applied including — but not limited to — products, data, services and business processes.
+Quality assurance findings and reports may provide evidence and recommendations for quality improvement programmes. ",Delivery and operation,Systems development,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+77 - Quality management,QUMG,Defining and operating a management framework of processes and working practices to deliver the organisation's quality objectives.,"Activities may include — but are not limited to:
+- establishing a quality management system and a quality culture
+- applying techniques for the monitoring and improving the quality of any aspect of a function, processes, products, services or data
+- providing advice on the application of appropriate quality management techniques
+- achieving and maintaining compliance to, national and international standards and to internal policies.
+Internal or external standards are typically related to areas such as — but not limited to — quality, service, sustainability and security.",Delivery and operation,Systems development,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+78 - Radio frequency engineering,RFEN,"Designing, installing and maintaining radio frequency based devices and software.","Activities may include — but are not limited to:
+- evaluating and selecting devices and software
+- integrating radio frequency (RF) sub-systems into larger systems
+- calibrating, tuning and maintaining devices and software
+- receiving, transmitting and converting data between analogue and digital devices, in accordance with industry and regulatory standards
+- developing, integrating and configuring antennas, readers and transmitters in hardware or software forms, including software-defined radio (SDR), radio frequency identification (RFID), near field communication (NFC), Bluetooth and Wi-Fi
+- adhering to established safety, security and quality standards.
+Applications of this skill include — but are not limited to:
+- wireless local area networks
+- wireless communication systems for voice, data and image — cellular radio systems, global positioning systems and military communications networks
+- navigation and sensor systems.
+",Delivery and operation,Computational science,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+79 - Real-time/embedded systems development,RESD,Designing and developing reliable real-time software typically within embedded systems.,"Embedded systems provide a dedicated function within a more extensive mechanical or electronic system with real-time, safety, security, and reliability constraints. Typically, it involves interfacing with hardware, sensors, and actuators for monitoring and control in industrial, automotive, aerospace, medical or robotic equipment, including IoT (Internet of Things) devices and intelligent systems.
+These systems typically perform critical functions and have demanding requirements including — but not limited to — integrity, reliability, safety, security or power consumption.
+Activities may include — but are not limited to:
+- defining non-functional system requirements such as performance, reliability, safety, and security, including requirements for power, cost, physical space or response time 
+- building in fail-safe/secure characteristics for graceful degradation
+- using specialist techniques to define systems and to assure essential attributes are achieved
+- applying comprehensive verification, validation and testing methods and techniques
+- using specialised tools such as in-circuit emulators, logic analysers and digital oscilloscopes.
+",Delivery and operation,Security services,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+80 - Release and deployment,RELM,"Applying the processes, systems and functions required to make new and changed services and features available for use.","Activities may include — but are not limited to:
+- packaging and deploying software changes and updates for release into a live environment
+- managing continuous delivery/deployment using automation tools for containerisation and orchestration
+- using package management tools or application lifecycle management tools for software dependency, version and library control
+- combining changes to form a release that delivers a new service or updates an existing service
+- adhering to established safety, security and quality standards
+- enabling the controlled and effective handover to operational management and the user community.
+",Delivery and operation,Security services,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+81 - Requirements definition and management,REQM,Managing requirements through the entire delivery and operational life cycle.,"Requirements may be related to software, systems, data, processes, products or services.
+Activities may include — but are not limited to:
+- eliciting and analysing requirements — both functional and non-functional 
+- ensuring that customer requirements and priorities are accurately reflected
+- organising and prioritising requirements using techniques such as — but not limited to — product roadmaps, epics, user stories and backlogs
+- specifying and validating requirements and constraints to a level that enables effective development and operations of new or changed software, systems, processes, products or services
+- negotiating trade-offs that are acceptable to key stakeholders and within budgetary, technical, regulatory, and other constraints
+- adopting and adapting requirements management life cycle models.
+The requirements life cycle approach will be based on the context of the work and may be selected from predictive (plan-driven) or adaptive (iterative/agile) approaches.",Delivery and operation,Security services,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+82 - Research,RSCH,"Systematically creating new knowledge by data gathering, innovation, experimentation, evaluation and dissemination.","Activities may include — but are not limited to:
+- determining research goals and the methods by which the research will be conducted
+- actively participating in a community of researchers
+- communicating formally and informally through digital media, conferences, journals, books and seminars.
+The Research skill defined in SFIA is used for creating new knowledge including — but not limited to — commercial research and development or academic institutions.
+Because of its name, this skill can be confused with general search and investigation into a topic of interest. In most cases, general investigations are covered by responsibilities described by the SFIA generic attributes. Many of the SFIA professional skills also make reference to investigation or similar activity.",Delivery and operation,Security services,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+83 - Resourcing,RESC,"Acquiring, deploying and onboarding resources.","Resources include — but are not limited to — salaried employees, temporary staff, consultants and contractors. Resourcing may be undertaken for departments, teams, projects, or individual roles.
+Activities may include — but are not limited to:
+- recruiting, selecting, deploying, onboarding and transitioning resources
+- assessing candidates using methods such as — but not limited to — interviews, assessment centres, CV/resume review, tests, exercises
+- ensuring compliance with relevant statutory or external regulations and codes of good practice
+- measuring the effectiveness of resourcing approaches using methods such as — but not limited to — retention analysis, media and supplier assessment, customer satisfaction and validation of selection methods.
+",Delivery and operation,Service management,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+84 - Risk management,BURM,Planning and implementing organisation-wide processes and procedures for the management of risk to the success or integrity of the enterprise.,"Risk management can be applied to many enterprise functions as well as technical and engineering specialisms — such as, but not limited to, information and technology systems, operations, environmental, information and cyber-security, safety, energy supply. Risk is also explicitly referenced in many SFIA skills. 
+Activities may include — but are not limited to:
+- identifying risks
+- classifying and prioritising risks — their impact and probability, and mitigation actions
+- planning, developing, and implementing organisational approaches to risk management to ensure the integrity of the business, its products and services, and the end-users
+- communicating and reporting on risks and mitigation actions to key stakeholders.
+",Delivery and operation,Service management,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+85 - Safety assessment,SFAS,Assessing safety-related software and hardware systems to determine compliance with standards and required levels of safety integrity.,"Activities may include — but are not limited to:
+- making professional judgements on software and hardware engineering approaches
+- assessing the suitability of design, testing, and validation and verification methods
+- identifying and evaluating risks and how they can be reduced
+- establishing, maintaining and managing a safety assessment framework and practices
+- using techniques such as failure modes effects analysis, hazard and operability studies, component failure impact analysis, fault tree analysis, event tree analysis and criticality analysis.
+",Delivery and operation,Service management,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+86 - Safety engineering,SFEN,Applying appropriate methods to assure safety during all life cycle phases of safety-related systems developments.,"Safety-critical systems are those in which a system failure could harm human life, other living things, physical structures, or the environment. 
+Activities may include — but are not limited to:
+- safety hazard and risk analysis
+- safety requirements specification
+- safety-related systems architectural design
+- formal method design
+- safety validation and verification
+- safety case preparation
+- applying generic safety standards such as IEC 61508, IEC 61511 or industry-specific safety standards.
+System safety is engineered and measured by safety levels based on hazard and risk analysis",Delivery and operation,Service management,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+87 - Sales support,SSUP,"Providing advice and support to the sales force, customers and sales partners.","Sales support can be delivered to a range of roles — such as but not limited to — the sales force, sales agents, reseller/distributor staff and existing or prospective customers.
+This skill includes the provision of technical advice and assistance either in support of customer development or sales activity or in fulfilment of sales obligations.",Delivery and operation,Stakeholder management,"1 - Follow,2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+88 - Scientific modelling,SCMO,Applying computer simulation and other forms of computation to solve real-world problems in scientific disciplines.,"Activities may include — but are not limited to:
+- identifying relevant mathematical principles and scientific theory within a computational model
+- creating, testing and tuning scientific models through the application of computing
+- validating and interpreting computational models against the reality which the models attempt to represent.
+",Delivery and operation,Stakeholder management,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+89 - Security operations,SCAD,"Delivering management, technical and administrative services to implement security controls and security management strategies.","Activities may include — but are not limited to:
+- providing advice and guidance on the implementation of security controls
+- defining and reviewing access rights and privileges
+- authorising and monitoring of access to IT facilities or infrastructure
+- investigating unauthorised access
+- routine vulnerability assessments
+- monitoring violations of security policies
+- ensuring compliance with relevant legislation
+- monitoring and analysing relevant logs, alerts and events
+- responding to incidents submitted via tickets or phone
+- implementing standard security operating procedures
+- maintaining security records and documentation
+- administering cryptographic and certificate management activities.
+",Delivery and operation,Stakeholder management,"1 - Follow,2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+90 - Selling,SALE,"Finding prospective customers and working with them to identify needs, influence purchase decisions and enhance future business opportunities.","Activities may include — but are not limited to:
+- identifying and qualifying sales prospects
+- prospecting and outreach to potential customers using appropriate channels
+- developing customer interest, building rapport and trust
+- asking questions about goals and challenges and finding a solution
+- preparing, executing and monitoring the sale of products or services into an external or internal market
+- bid management, value analysis, negotiation, sales presentations, closing the sale, preparation of contracts.
+",Delivery and operation,Stakeholder management,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+91 - Service acceptance,SEAC,Managing the process to obtain formal confirmation that service acceptance criteria have been met.,"Service acceptance criteria are used to ensure that a service meets the defined service requirements, including functionality, operational support, performance, safety, security and quality requirements. Acceptance criteria include both utility/functional and warranty/non-functional tests.
+Activities may include — but are not limited to:
+- engaging with a variety of stakeholders and delivery life-cycle activities such as — but not limited to — external service providers, technical design, software development and project management
+- implementing service acceptance practices to support iterative/agile working
+- ensuring the service provider is ready to operate the new service when it has been deployed.
+",Delivery and operation,Strategy and planning,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+92 - Service catalogue management,SCMG,Providing a source of consistent information about available services and products to customers and users.,"Activities may include — but are not limited to:
+- publishing and maintaining information about available services
+- tracking the list of available services as new services are introduced and current services are amended or retired
+- making the catalogue useful and easy to use
+- customising the information published according to the needs of specific audiences — such as for users — for customers, for service providers
+- supporting discussion of standard and non-standard service offerings
+- enabling automation of service requests and service fulfilment where appropriate.
+The information documented in the service catalogue includes — but is not limited to — service names and descriptions, features, value propositions, costs, service support levels and availability.",Delivery and operation,Strategy and planning,"3 - Apply,4 - Enable,""5 - Ensure, advise""",,,
+93 - Service level management,SLMO,"Agreeing targets for service levels and assessing, monitoring, and managing the delivery of services against the targets.","Activities may include — but are not limited to:
+- planning, implementation, control, review and audit of service provision, to meet customer business requirements
+- negotiating, implementing and monitoring service level agreements
+- managing operational facilities to provide the agreed levels of service
+- identifying opportunities to improve service delivery
+- implementing service level management practices to support cloud-based services
+- identifying future trends and their impact on service delivery — for example — technical, market, industrial, socioeconomic, legislative or sustainability targets.
+",Delivery and operation,Strategy and planning,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+94 - Software configuration,PORT,Designing and deploying software product configurations into software environments or platforms.,"This skill is typically applied to the design and deployment of configurations of large, complex software.
+This includes — but is not limited to:
+- software for enterprise resource planning (ERP) and customer relationship management
+- server/mainframe operating systems
+- software as a service (SaaS) solutions
+- integration platforms/suites
+- tools provided by infrastructure as a service (IaaS) and platform as a service (PaaS) providers.
+Activities may include — but are not limited to:
+- porting of software configuration across different environments or platforms
+- refactoring of complex or overlapping configurations across different modules and capabilities within software solutions.
+Depending on requirements and the characteristics of the project or assigned work — software configuration methods and life cycles can be predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.
+",Delivery and operation,Strategy and planning,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+95 - Software design,SWDN,Specifying and designing software to meet defined requirements by following agreed design standards and principles.,"Activities may include — but are not limited to:
+- designing software applications, components, interfaces and related characteristics (including security)
+- using design concepts and patterns to develop software design and provide the basis for software construction and verification
+- evaluating alternative solutions and trade-offs to facilitate design decisions
+- taking into account functional and non-functional requirements such as the target environment, performance, security and existing systems
+- developing prototypes/simulations to enable informed decision-making
+- adopting and adapting software design models, tools and techniques based on the context of the work.
+Depending on requirements and project or work assigned characteristics, software design techniques can be predictive (plan-driven) or adaptive (iterative/agile) approaches.",Delivery and operation,Strategy and planning,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+96 - Solution architecture,ARCH,Developing and communicating a multi-dimensional solution architecture to deliver agreed business outcomes.,"Activities may include — but are not limited to:
+- defining the planned operation and maintenance of the solution within a production environment — include changes to services, process, organisation, and operating models as well as technology 
+- ensuring that existing and planned solution components are compatible with relevant architectures, strategies, policies, standards and practices 
+- considering requirements for security, privacy and testing of solutions
+- taking account of relevant architectures, strategies, policies, standards and practices 
+- identifying appropriate cloud services
+- developing roadmaps to migrate components to cloud services
+- developing and communicating an implementation roadmap 
+- providing guidance and risk-based governance to support solution implementation including managing requests for changes and deviations from specifications.
+",Delivery and operation,Strategy and planning,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+97 - Sourcing,SORC,"Managing, or providing advice on, the procurement or commissioning of products and services.","Activities may include — but are not limited to:
+- providing policies and standards for procurement
+- commercial governance, compliance to legislation and assurance of information security
+- implementing compliant procurement processes, taking full account of the issues and imperatives of both the commissioning and supplier sides
+- clarifying requirements for products and services
+- identifying, evaluating and selecting suppliers 
+- evaluating tenders
+- developing ""build or buy"" criteria
+- evaluating and purchasing cloud-based services
+- benchmarking supplier performance 
+- placing, monitoring and terminating contracts.
+",Delivery and operation,Strategy and planning,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+98 - Specialist advice,TECH,Providing authoritative advice and direction in a specialist area.,"The skill includes developing and exploiting specialist knowledge.
+The expertise and specialist knowledge may relate to a specific area of information or communications technology, digital working, techniques, methodologies, products or application areas.
+It may also include the application of professional knowledge in other disciplines to information and technology topics. These include disciplines such as — but not limited to — legal, finance, public relations, communications, ethics, human resources management.",Delivery and operation,Strategy and planning,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+99 - Stakeholder relationship management,RLMT,"Influencing stakeholder attitudes, decisions, and actions for mutual benefit.","Activities may include — but are not limited to:
+- identifying stakeholders and analysing the relationships
+- agreeing on mutually beneficial outcomes
+- managing, monitoring and improving stakeholder relationships 
+- determining the relationship management approach to take — including roles and responsibilities, governance, policies, processes, tools and support mechanisms
+- getting commitment to action through consultation and consideration of impacts.
+- combining formal and informal communication channels to achieve the desired result
+- operational management of stakeholder relationships and communications.
+The focus of this skill is a systematic and planned approach. This skill is not intended for general communication and developing productive working relationships. Those factors are described in SFIA's generic attributes and levels of responsibility.",Delivery and operation,Strategy and planning,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+100 - Storage management,STMG,"Planning, implementing and optimising the technologies and processes used for data storage.","Storage management includes managing local or external storage such as direct access storage (DAS), network access storage (NAS), storage area networks (SAN) and cloud-based storage. 
+Storage management technologies and processes includes — but are not limited to — virtualisation, replication, mirroring, security, compression, traffic analysis, process automation, storage provisioning and related techniques.
+Activities may include — but are not limited to:
+- backup, archiving and recovery of data
+- ensuring compliance with regulatory and security requirements
+- addressing business goals based on information value, data classification, recovery point and recovery time objectives.
+",Delivery and operation,Strategy and planning,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+101 - Strategic planning,ITSP,"Creating and maintaining a strategy to align organisational actions, plans and resources with business objectives.","Activities may include — but are not limited to:
+- iterating and reviewing strategic plans 
+- developing plans to drive forward and execute strategy
+- working with stakeholders to communicate and embed strategic management via objectives, accountabilities and progress monitoring.
+",Delivery and operation,Strategy and planning,"""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+102 - Subject formation,SUBF,"Specifying, designing and developing curricula within a structured and systematic education environment.","Subject formation focuses on:
+- developing curricula to support the development of understanding of the principles, approaches and practices that underpin specific topics and knowledge areas 
+- incorporating significant emerging technologies and techniques for which current students need to be prepared. 
+The scope may include curricula for formal education or for independent examination bodies.
+This skill is generic and can be applied to curriculum design and development for any topic or knowledge area. In the context of the SFIA framework — this includes:
+- the topics and knowledge areas that support any skills described in the SFIA framework
+- and the application of these topics and knowledge areas to other disciplines and practices.
+In the context of computing and IT curricula — the topics addressed are typically:
+- common digital skills needed to safely benefit from, participate in and contribute to the digital world for everyday life and for work
+- fundamental and more advanced aspects of specific topics and knowledge areas including emerging technologies and new applications for existing technologies
+- the ideas of computational thinking and the application of computational concepts to everyday life and professional working practices.
+",Delivery and operation,Technology management,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+103 - Supplier management,SUPP,"Aligning the organisation’s supplier performance objectives and activities with sourcing strategies and plans, balancing costs, efficiencies and service quality.","Activities may include — but are not limited to:
+- establishing working relationships based on collaboration, trust, and open communication
+- encouraging co-innovation and service improvement with suppliers
+- proactively engaging suppliers for mutual benefit to resolve operational incidents, problems, poor performance and other sources of conflict
+- implementing supplier management practices to support cloud-based services
+- implementing clear escalation paths for discussing and resolving issues
+- managing performance and risks across multiple suppliers (internal and external) using a set of agreed metrics
+- ensuring compliance to legislation
+- commercial governance and supply chain management
+- managing risks associated with security, continuity and integrity of supply
+- implementing policies for selection of suppliers and bench-marking supplier performance.
+",Delivery and operation,Technology management,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+104 - Sustainability,SUST,"Providing advice, assistance and leadership to enable the organisation to minimise negative environmental impact.","Activities may include — but are not limited to:
+- developing policies, standards and guidelines to minimise the negative environmental impact of factors such as — but not limited to — hardware, software, networks, storage, power supply, care, maintenance and disposal of assets, paper, packaging or transport
+- advising on regulations and standards
+- benchmarking and establishing metrics and dashboards
+- communicating and promoting sustainability policies and programmes.
+",Delivery and operation,Technology management,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+105 - System software,SYSP,"Installing, managing, controlling, deploying and maintaining infrastructure systems software, to meet operational needs and service levels.","The term system software refers to operating systems, utilities and middleware that are essential elements of the IT Infrastructure and which enable applications to run.
+System software may run in cloud, virtual or physical hardware environments and includes — but is not limited to — operating systems, hypervisors, function libraries and device drivers, networking, database and storage management products, and system utilities.
+Activities may include — but are not limited to:
+- monitoring and optimising the performance of system software
+- resolving potential and actual service problems
+- evaluating new system software
+- reviewing system software updates 
+- provisioning and testing system software updates 
+- adhering to established safety, security and quality standards.
+",Delivery and operation,Technology management,"3 - Apply,4 - Enable,""5 - Ensure, advise""",,,
+106 - Systems and software life cycle engineering,SLEN,"Establishing and deploying an environment for developing, continually improving, and securely operating software and systems products and services.","This skill is associated with interdisciplinary approaches to developing and operating software and systems products and services across the full life cycle. Typically — but not exclusively — labelled with terms such as DevOps, DevSecOps, site reliability engineering, developer productivity engineering.
+Activities include — but are not limited to:
+- establishing secure and reliable software lifecycle principles and practices
+- developing a supporting framework of methods, procedures, techniques, tools, and people with required skills, knowledge and competencies
+- deploying and using this environment with the people and teams that are responsible for all systems and software life cycle engineering
+- building repeatable and reliable capabilities through a process of trial, feedback, learning and continual evolution
+- adapting working practices to the needs of specific products and services
+- defining, controlling and improving software life cycle processes
+- building in risk management, quality, security, privacy and safety
+- maximising the automation of activities
+- establishing software architecture and design principles to enable the desired life cycle processes
+- focusing on mission, value and customers
+- establishing a culture of collaboration, learning, knowledge management, adaptation and resilience
+- adopting and integrating appropriate industry frameworks to guide improvements
+",Delivery and operation,Technology management,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+107 - Systems design,DESN,Designing systems to meet specified requirements and agreed systems architectures.,"Activities may include — but are not limited to:
+- using design concepts to develop system design and provide the basis for systems construction and verification
+- designing or selecting system components
+- designing systems compatible with cloud computing architectures and selection of components such as infrastructure as a service, platform as a service and software as a service
+- developing a complete set of detailed models, properties, and/or characteristics described in a form suitable for implementation
+- adopting and adapting of system design life cycle models based on the context of the work using predictive (plan-driven) approaches or adaptive (iterative/agile) approaches for system design
+- adhering to regulatory requirements and organisational standards including security.
+",Delivery and operation,Technology management,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+108 - Systems development management,DLMG,"Planning, estimating and executing systems development work to time, budget and quality targets.","Activities may include — but are not limited to:
+- adopting and adapting systems development life cycle models based on the context of the work and selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches
+- collaboration and open communication with stakeholders with a focus on delivering value from systems development
+- managing risks and allowing for timely adjustment of plans and deliverables to continue to meet customer requirements and deliver value
+- aligning systems development activity and deliverables with architectures and standards and ensuring quality, security and privacy are built in 
+- developing roadmaps to communicate systems development plans
+- identifying the resources needed for all stages (planning, estimation, execution) of systems development projects and how demand will be met with a supply capacity.
+",Delivery and operation,User experience,"""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+109 - Systems installation and removal,HSIN,"Installing and testing, or decommissioning and removing, systems or system components.","Systems or systems components may include — but are not limited to — hardware, software, cabling, wiring, and monitoring equipment.
+Activities may include — but are not limited to:
+- developing and following plans and instructions in accordance with agreed standards
+- adhering to established safety, security and quality standards
+- testing of hardware and software components, resolution of malfunctions, and recording of results
+- documenting the details of hardware and software installed so that configuration management records can be updated
+- safe disconnection, decommissioning and removal of systems or system components.
+",Delivery and operation,User experience,"1 - Follow,2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise""",,,
+110 - Systems integration and build,SINT,"Planning, implementing and controlling activities to synthesise system components to create operational systems, products or services.","The scope of integration includes system elements, subsystems and interfaces including computing, storage, networking and cloud services.
+Systems integration is used to create systems for testing purposes as well as for operational use by customers and users.
+Activities may include — but are not limited to:
+- developing organisational capabilities, processes and procedures for automation and continuous integration of build, packaging, testing, security and deployment
+- building and operating a continuous integration (CI) capability when required employing version control of source code and related artefacts
+- ensuring security and privacy requirements are an essential part of systems integration and build
+- testing, validation and sign off of integration to satisfy requirements, architectures and design
+- monitoring and controlling integration activities and recording and reporting on the results of integration
+- keeping stakeholders informed and providing feedback into risk management processes
+- developing and testing disaster recovery plans and applying incident management processes for major systems integrations.
+",Delivery and operation,User experience,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+111 - Teaching,TEAC,Delivering and assessing curricula in a structured and systematic education environment.,"Teaching focuses on:
+- developing an understanding of the principles, approaches and practices that underpin a specified topic or knowledge area
+- the methods, techniques and practice of teaching (pedagogy).
+This skill is generic and can be applied to the teaching of any topic or knowledge area. In the context of the SFIA framework — this includes:
+- the topics and knowledge areas supporting any of the skills described in the SFIA framework
+- and the application of these topics and knowledge areas to other disciplines and practices.
+In the context of computing and IT curricula – the topics addressed are typically:
+- common digital skills needed to safely benefit from, participate in and contribute to the digital world for everyday life and work
+- fundamental and more advanced aspects of specific topics and knowledge areas including emerging technologies and new applications for existing technologies
+- the ideas of computational thinking and the application of computational concepts to everyday life and professional working practices.
+",Delivery and operation,User experience,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+112 - Technology service management,ITMG,Managing the provision of technology-based services to meet defined organisational needs.,"Activities may include — but are not limited to:
+- gathering data from a variety of open or proprietary intelligence sources
+- processing and classifying threat data to make it useful and actionable by others
+- packaging the data for use by consumers of the information
+- enabling the use of the data automatically by security tools
+- providing threat intelligence to help others mitigate vulnerabilities or to respond to security incidents.
+",Delivery and operation,User experience,"""5 - Ensure, advise"",""6 - Initiate, influence"",""7 - Set strategy, inspire, mobilise""",,,
+113 - Testing,TEST,"Investigating products, systems and services to assess behaviour and whether this meets specified or unspecified requirements and characteristics.","The scope of testing includes technology, system components, configurations, packages and their interfaces. This skill is applicable to all testing methodologies — which can be delivered using predictive (plan-driven) approaches or adaptive (iterative/agile) approaches. 
+Activities may include — but are not limited to:
+- planning, designing, managing, executing and reporting of tests
+- functional testing of capabilities or features
+- non-functional testing of qualities such as — but not limited to — performance, security, access, backup and recovery, archiving and retention, robustness, availability, capacity, scalability, reliability, performance, stress, volume, maintainability and portability
+- static testing and static analysis
+- managing risks associated with testing and taking preventative action when needed
+- adopting and adapting testing methods including waterfall, incremental or agile approaches
+- conforming to agreed process standards, industry-specific regulations and data protection legislation
+- engineering, using and maintaining testware to measure and improve the quality of the software being tested
+- promoting productivity through test automation, tools and best practices
+- developing scalable and reliable automated tests and frameworks.
+",Delivery and operation,User experience,"1 - Follow,2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+114 - Threat intelligence,THIN,Developing and sharing actionable insights on current and potential security threats to the success or integrity of an organisation.,"Activities may include — but are not limited to:
+- gathering data from a variety of open or proprietary intelligence sources
+- processing and classifying threat data to make it useful and actionable by others
+- packaging the data for use by consumers of the information
+- enabling the use of the data automatically by security tools
+- providing threat intelligence to help others mitigate vulnerabilities or to respond to security incidents.
+",Delivery and operation,User experience,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+115 - User experience analysis,UNAN,"Understanding the context of use for systems, products and services and specifying user experience requirements and design goals.","This skill is inclusive of a full range of user tasks not just digital tasks. The skill can be applied in various contexts — such as — but not limited to customer experience, products, services, applications, devices, learning experience and employee experience.
+Activities may include — but are not limited to:
+- identifying, analysing, clarifying, and communicating the context of use
+- describing users’ goals, tasks and the environment within which the systems, products, services or devices will be used
+- creating and describing personas to represent key user segments
+- developing user stories or requirements to describe features or capabilities 
+- agreeing user experience design goals
+- analysing and prioritising user experience needs with stakeholders
+- understanding and specifying user experience and user accessibility requirements for all potential users.
+",Delivery and operation,User experience,"3 - Apply,4 - Enable,""5 - Ensure, advise""",,,
+116 - User experience design,HCEV,"Producing design concepts and prototypes for user interactions with and experiences of a product, system or service.","This skill is inclusive of a full range of user tasks not just digital tasks. The skill can be applied in various contexts — such as — but not limited to customer experience, products, services, applications, devices, learning experience and employee experience.
+Activities may include — but are not limited to:
+- understanding and addressing design goals, usability and accessibility requirements
+- using an iterative design process to enhance user satisfaction by improving usability and accessibility 
+- designing digital and offline tasks, interactions and interfaces
+- refining designs in response to user experience evaluation 
+- communicating the design to those responsible for design, development and implementation of products, systems and services
+- sketching, ideation, creating storyboards, static wireframes or dynamic prototypes
+- developing alternative design and evaluating advantages, disadvantages, constraints and trade-offs.
+",Delivery and operation,User experience,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+117 - User experience evaluation,USEV,"Validating systems, products or services against user experience goals, metrics and targets.","This skill is inclusive of a full range of user tasks not just digital tasks. The skill can be applied in various contexts — such as — but not limited to customer experience, products, services, applications, devices, learning experience and employee experience.
+Evaluation is typically part of an iterative user experience design process and contributes to the improvement of the product or service. An evaluation can also be the starting point if an existing system, product or service is to be replaced or improved. Methods include user trials, expert review, survey and analysis.
+Activities may include — but are not limited to:
+- providing assurance that user stories or requirements have been met and required practice has been followed to address accessibility, usability, security, health and safety
+- applying a range of qualitative and quantitative evaluation techniques
+- selecting from lightweight/rapid techniques or more thorough and resource-intensive approaches
+- selecting appropriate use of formative or summative evaluations.
+- facilitating both moderated and unmoderated tests.
+",Delivery and operation,User experience,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+118 - User research,URCH,"Identifying users' behaviours, needs and motivations using observational research methods.","This skill is inclusive of a full range of user tasks not just digital tasks. The skill can be applied in various contexts — such as — but not limited to customer experience, products, services, applications, devices, learning experience and employee experience.
+User research has a different set of responsibilities to academic research or user requirements elicitation. User research incorporates significant involvement of users to generate deep understanding and uncover new opportunities for systems, products, services or devices. 
+Activities may include — but are not limited to: 
+- using ethnography, observation techniques, task analysis, and other methodologies that incorporate both the social and technological context
+- quantifying different user populations and their needs
+- identifying target users and segments in order to maximise the chances of design success for systems, products, services, or devices
+- including a range of users in research activities to capture the diversity of users' behaviours, needs and motivations.
+",Delivery and operation,User experience,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+119 - Vulnerability assessment,VUAS,"Identifying and classifying security vulnerabilities in networks, systems and applications and mitigating or eliminating their impact.","Activities may include — but are not limited to:
+- cataloguing and classifying information and technology resources (assets and capabilities) to support vulnerability assessment
+- assigning quantifiable value, rank order and importance to information and technology resources
+- identifying and analysing the vulnerabilities of each resource — manually or using automated tools and information sources
+- prioritising, scoring and ranking the risk associated with vulnerabilities
+- business impact assessment
+- mitigating or eliminating the vulnerabilities.
+Vulnerability assessment tools include web application scanners, protocol scanners and network scanners.",Delivery and operation,User experience,"2 - Assist,3 - Apply,4 - Enable,""5 - Ensure, advise""",,,
+120 - Vulnerability research,VURE,"Conducting applied research to discover, evaluate and mitigate new or unknown security vulnerabilities and weaknesses.","A security vulnerability is a weakness, flaw or error found within a security system that has the potential to be leveraged by an external agent to compromise a secure system.
+Activities may include — but are not limited to:
+- researching new threats, attack vectors, risks and potential solutions
+- reverse engineering hardware or software 
+- applying tools such as disassemblers, debuggers and fuzzers 
+- analysing embedded devices
+- developing techniques and tools to analyse and expose vulnerabilities
+- designing new vulnerability discovery techniques
+- sharing mitigation techniques with relevant stakeholders.
+",Delivery and operation,User experience,"3 - Apply,4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
+121 - Workforce planning,WFPL,Estimating the demand for people and skills and planning the supply needed to meet that demand.,,Delivery and operation,User experience,"4 - Enable,""5 - Ensure, advise"",""6 - Initiate, influence""",,,
